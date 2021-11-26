@@ -1,0 +1,532 @@
+[
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "1º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 1,
+    "nome_disciplina": "Geometria Analítica e Álgebra Vetorial",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "1º Semestre/2018",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 1,
+    "nome_disciplina": "Sistemas Digitais",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "1º Semestre/2018",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 1,
+    "nome_disciplina": "Sistemas de Computação e de Informação",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "1º Semestre/2018",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 1,
+    "nome_disciplina": "Algoritmos e Técnicas de Programação",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 25,
+    "periodo_letivo": "1º Semestre/2018",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 1,
+    "nome_disciplina": "ED - Projeto de Vida",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "2º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 2,
+    "nome_disciplina": "Física Geral",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "2º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 2,
+    "nome_disciplina": "Matemática Discreta",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "2º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 2,
+    "nome_disciplina": "Sistemas Operacionais",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "2º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 2,
+    "nome_disciplina": "Lógica e Matemática Computacional",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 25,
+    "periodo_letivo": "2º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 2,
+    "nome_disciplina": "ED - Construindo Uma Carreira de Sucesso - Computação",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "9,6",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Modelagem de Dados",
+    "_ordenaNota": 9.6
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Arquitetura e Organização de Computadores",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "9,4",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Algoritmos e Estrutura de Dados",
+    "_ordenaNota": 9.4
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Redes de Computadores",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Homem, Cultura e Sociedade",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "9,8",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "Métodos Numéricos Aplicados",
+    "_ordenaNota": 9.8
+  },
+  {
+    "carga_horaria": 25,
+    "periodo_letivo": "3º Semestre/2019",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 3,
+    "nome_disciplina": "ED - Desenvolvimento de Carreira",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "4º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "Algoritmos e Estrutura de Dados Avançado",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "4º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "Ciência da Computação e Profissão",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 25,
+    "periodo_letivo": "4º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "7,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "ED - Empreendedorismo",
+    "_ordenaNota": 7
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "4º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "Linguagens Formais e Autômatos",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "4º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "9,4",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "Engenharia de Software",
+    "_ordenaNota": 9.4
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "4º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "9,8",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 4,
+    "nome_disciplina": "Computação Gráfica e Processamento de Imagens",
+    "_ordenaNota": 9.8
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "8,5",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Metodologia Científica",
+    "_ordenaNota": 8.5
+  },
+  {
+    "carga_horaria": 5,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "ED - Empregabilidade",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "9,7",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Ciência da Computação I",
+    "_ordenaNota": 9.7
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Programação Orientada a Objetos",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "9,5",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Probabilidade e Estatística",
+    "_ordenaNota": 9.5
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Gestão de Projetos",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "5º Semestre/2020",
+    "situacao": "Aprovado",
+    "nota_media": "8,8",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 5,
+    "nome_disciplina": "Inteligência Artificial",
+    "_ordenaNota": 8.8
+  },
+  {
+    "carga_horaria": 5,
+    "periodo_letivo": "6º Semestre/2021",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "ED - Cultura Digital",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Programação Orientada a Objetos II",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Sistemas Distribuídos",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Arquiteturas Paralelas e Distribuídas",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Computação em Nuvem",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre/2021",
+    "situacao": "Aprovado",
+    "nota_media": "10,0",
+    "cor_situacao": "#00C7B1",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Programação em Banco de Dados",
+    "_ordenaNota": 10
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "6º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 6,
+    "nome_disciplina": "Princípios de Telecomunicações",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Governança de Tecnologia da Informação",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Trabalho de Conclusão de Curso I",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 100,
+    "periodo_letivo": "7º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Estágio Supervisionado I",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 5,
+    "periodo_letivo": "7º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "ED - Design Thinking",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Ciência da Computação II",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Inteligência Artificial e Computacional",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Segurança da Informação e de Redes",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Desenvolvimento de Business Intelligence",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "7º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 7,
+    "nome_disciplina": "Robótica",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "8º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Trabalho de Conclusão de Curso II",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 100,
+    "periodo_letivo": "8º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Estágio Supervisionado II",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 5,
+    "periodo_letivo": "8º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "ED - Marketing Digital",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "8º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Compiladores",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "8º Semestre/2021",
+    "situacao": "Cursando",
+    "nota_media": "-",
+    "cor_situacao": "#c9c9c9",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Análise de Computabilidade e Complexidade de Algoritmos",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "8º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Gestão de Projetos de Software",
+    "_ordenaNota": 0
+  },
+  {
+    "carga_horaria": 60,
+    "periodo_letivo": "8º Semestre",
+    "situacao": "A cursar",
+    "nota_media": "-",
+    "cor_situacao": "#FFF",
+    "_ordenaSemestre": 8,
+    "nome_disciplina": "Internet das Coisas",
+    "_ordenaNota": 0
+  }
+]

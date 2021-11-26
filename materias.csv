@@ -1,0 +1,44 @@
+,carga_horaria,periodo_letivo,situacao,nota_media,cor_situacao,_ordenaSemestre,nome_disciplina,_ordenaNota
+0,60,1º Semestre/2019,Aprovado,"10,0",#00C7B1,1,Geometria Analítica e Álgebra Vetorial,10.0
+1,60,1º Semestre/2018,Aprovado,"10,0",#00C7B1,1,Sistemas Digitais,10.0
+2,60,1º Semestre/2018,Aprovado,"10,0",#00C7B1,1,Sistemas de Computação e de Informação,10.0
+3,60,1º Semestre/2018,Aprovado,"10,0",#00C7B1,1,Algoritmos e Técnicas de Programação,10.0
+4,60,2º Semestre/2019,Aprovado,"10,0",#00C7B1,2,Física Geral,10.0
+5,60,2º Semestre/2019,Aprovado,"10,0",#00C7B1,2,Matemática Discreta,10.0
+6,60,2º Semestre/2019,Aprovado,"10,0",#00C7B1,2,Sistemas Operacionais,10.0
+7,60,2º Semestre/2019,Aprovado,"10,0",#00C7B1,2,Lógica e Matemática Computacional,10.0
+8,60,3º Semestre/2019,Aprovado,"9,6",#00C7B1,3,Modelagem de Dados,9.6
+9,60,3º Semestre/2019,Aprovado,"10,0",#00C7B1,3,Arquitetura e Organização de Computadores,10.0
+10,60,3º Semestre/2019,Aprovado,"9,4",#00C7B1,3,Algoritmos e Estrutura de Dados,9.4
+11,60,3º Semestre/2019,Aprovado,"10,0",#00C7B1,3,Redes de Computadores,10.0
+12,60,3º Semestre/2019,Aprovado,"10,0",#00C7B1,3,"Homem, Cultura e Sociedade",10.0
+13,60,3º Semestre/2019,Aprovado,"9,8",#00C7B1,3,Métodos Numéricos Aplicados,9.8
+14,60,4º Semestre/2020,Aprovado,"10,0",#00C7B1,4,Algoritmos e Estrutura de Dados Avançado,10.0
+15,60,4º Semestre/2020,Aprovado,"10,0",#00C7B1,4,Ciência da Computação e Profissão,10.0
+16,60,4º Semestre/2021,Cursando,-,#c9c9c9,4,Linguagens Formais e Autômatos,0.0
+17,60,4º Semestre/2020,Aprovado,"9,4",#00C7B1,4,Engenharia de Software,9.4
+18,60,4º Semestre/2020,Aprovado,"9,8",#00C7B1,4,Computação Gráfica e Processamento de Imagens,9.8
+19,60,5º Semestre/2020,Aprovado,"8,5",#00C7B1,5,Metodologia Científica,8.5
+20,60,5º Semestre/2020,Aprovado,"9,7",#00C7B1,5,Ciência da Computação I,9.7
+21,60,5º Semestre/2020,Aprovado,"10,0",#00C7B1,5,Programação Orientada a Objetos,10.0
+22,60,5º Semestre/2020,Aprovado,"9,5",#00C7B1,5,Probabilidade e Estatística,9.5
+23,60,5º Semestre/2020,Aprovado,"10,0",#00C7B1,5,Gestão de Projetos,10.0
+24,60,5º Semestre/2020,Aprovado,"8,8",#00C7B1,5,Inteligência Artificial,8.8
+25,60,6º Semestre/2021,Cursando,-,#c9c9c9,6,Programação Orientada a Objetos II,0.0
+26,60,6º Semestre,A cursar,-,#FFF,6,Sistemas Distribuídos,0.0
+27,60,6º Semestre,A cursar,-,#FFF,6,Arquiteturas Paralelas e Distribuídas,0.0
+28,60,6º Semestre,A cursar,-,#FFF,6,Computação em Nuvem,0.0
+29,60,6º Semestre/2021,Aprovado,"10,0",#00C7B1,6,Programação em Banco de Dados,10.0
+30,60,6º Semestre/2021,Cursando,-,#c9c9c9,6,Princípios de Telecomunicações,0.0
+31,60,7º Semestre/2021,Cursando,-,#c9c9c9,7,Governança de Tecnologia da Informação,0.0
+32,60,7º Semestre,A cursar,-,#FFF,7,Trabalho de Conclusão de Curso I,0.0
+33,60,7º Semestre,A cursar,-,#FFF,7,Ciência da Computação II,0.0
+34,60,7º Semestre,A cursar,-,#FFF,7,Inteligência Artificial e Computacional,0.0
+35,60,7º Semestre/2021,Cursando,-,#c9c9c9,7,Segurança da Informação e de Redes,0.0
+36,60,7º Semestre,A cursar,-,#FFF,7,Desenvolvimento de Business Intelligence,0.0
+37,60,7º Semestre,A cursar,-,#FFF,7,Robótica,0.0
+38,60,8º Semestre,A cursar,-,#FFF,8,Trabalho de Conclusão de Curso II,0.0
+39,60,8º Semestre/2021,Cursando,-,#c9c9c9,8,Compiladores,0.0
+40,60,8º Semestre/2021,Cursando,-,#c9c9c9,8,Análise de Computabilidade e Complexidade de Algoritmos,0.0
+41,60,8º Semestre,A cursar,-,#FFF,8,Gestão de Projetos de Software,0.0
+42,60,8º Semestre,A cursar,-,#FFF,8,Internet das Coisas,0.0
