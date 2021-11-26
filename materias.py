@@ -6,8 +6,8 @@ with open("materias.json", encoding='utf-8') as meu_json:
     dados = json.load(meu_json)
     lst = list(dados)
    
-materias = [n for n in lst if  n['situacao'] == "A cursar"] 
+materias = [n for n in lst if  n['situacao'] == "Aprovado"]
 df = pd.DataFrame(materias)
 
-df.to_csv("materias a cursar.csv")
+df.to_csv("materias Aprovado.csv")
 for i in materias: print(i) 
